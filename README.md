@@ -17,7 +17,7 @@ In 2nd semester, I further developed it in C Language.
 <ol>
   <li>Ensure that you have Python 3 installed on your system.</li>
   <li>Clone this repository to your local machine using the following command:<br>
-      <code>git clone https://github.com/your-username/laptops-shop-calculator.git</code></li>
+      <code>git clone https://github.com/ShahxHussain/Laptops-Shop-Calculator.git</code></li>
   <li>Navigate to the project directory:<br>
       <code>cd laptops-shop-calculator</code></li>
   <li>Run the main script:<br>
