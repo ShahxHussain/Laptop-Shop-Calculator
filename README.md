@@ -1,6 +1,7 @@
 <h1>Laptops Shop Calculator</h1>
 
-<p>This repository contains a Python project for a simple Laptops Shop Calculator. The calculator is developed as a part of my first-semester project and aims to calculate the price of a laptop based on user-selected specifications. It prompts the user to provide details such as laptop generation, RAM size, ROM size, graphics type, and offers the option to include additional items like a mouse and keyboard, which are then factored into the total price calculation.</p>
+<p>This repository contains a Python & C Language project for a simple Laptops Shop Calculator. The calculator is developed as a part of my first-semester project and aims to calculate the price of a laptop based on user-selected specifications. It prompts the user to provide details such as laptop generation, RAM size, ROM size, graphics type, and offers the option to include additional items like a mouse and keyboard, which are then factored into the total price calculation.</p> <br>
+In 2nd semester, I further developed it in C Language.
 
 <h2>Features</h2>
 
